@@ -13,3 +13,6 @@ credits: true
 Estos afiches fueron producidos por grupos insurgentes, fuerza armada y organizaciones de solidaridad con El Salvador durante el conflicto armado entre 1982 y 1990. Los objetos digitalizados han sido creados en el Museo de la Palabra y la Imagen en San Salvador, entidad que preserva también los originales. 
 
 En total, la colección tiene 394 objetos pero aquí solo incluímos los 13 primeros a modo de ejemplo. 
+```
+Se puede consultar la colección completa en [Latin American Digital Initiatives](https://ladi.lib.utexas.edu/es/mupi01) de la Universida de Texas en Austin. 
+
